@@ -31,3 +31,5 @@ Para obtener más ayuda sobre Angular CLI usa `ng help` o consulta la [página d
 Recuerda ejecutar `npm install` para instalar las dependencias necesarias.
 También puedes instalar Angular CLI globalmente con `npm install -g @angular/cli`.
 Y por ultimo, recerda ejecutar `ng serve` para correr el proyecto en tu navegador.
+
+Por último todo ésto se debe realizar haciendo el cd a Ejercicio_Api
